@@ -1,0 +1,8 @@
+{
+  "name": "Remix Avisos TTS — Transporte Sanitario",
+  "description": "Registro rápido de avisos sanitarios en local para copiar y pegar en WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
